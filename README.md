@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p>I am Aditya Patel, a computer science undergrad from IIT Guwahati, India.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Adi-183.Adi-183)
 
