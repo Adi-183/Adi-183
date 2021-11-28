@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Adi-183.Adi-183)
 
-[![Github](https://img.shields.io/github/followers/hetang7802?label=Follow&style=social)](https://github.com/hetang7802)
+[![Github](https://img.shields.io/github/followers/Adi-183?label=Follow&style=social)](https://github.com/Adi-183)
 
 
 ## ✉️ Find me on:
