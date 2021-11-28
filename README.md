@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://visitor-badge.laobi.icu/badge?page_id=hetang7802.hetang7802)
+![](https://visitor-badge.laobi.icu/badge?page_id=Adi-183.Adi-183)
 
 [![Github](https://img.shields.io/github/followers/hetang7802?label=Follow&style=social)](https://github.com/hetang7802)
 
@@ -30,14 +30,13 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hetang7802&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi-183&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hetang7802&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-183&theme=tokyonight)
 
 
 
 <!--
-**hetang7802/hetang7802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
