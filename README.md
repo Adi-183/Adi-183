@@ -1,4 +1,4 @@
-### Hi there 👋
+aitya### Hi there 👋
 <p>I am Aditya Patel, a computer science undergrad from IIT Guwahati, India.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Adi-183.Adi-183)
@@ -13,7 +13,7 @@
 <!--  <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a> -->
 <!--  <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> -->
  <a href="https://www.linkedin.com/in/aditya-patel-aab961226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="aditya-patel-aab961226" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Aditya183" target="blank"><img align="center" src="https://camo.githubusercontent.com/e39a4c226cf76be26c525280e5203c58f39171fac3a12450898e6b8cc2361fc4/68747470733a2f2f7777772e696d652e7573702e62722f7e6172636a722f696d6167652f636f6465666f726365732e706e67" alt="aitya" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Aditya183" target="blank"><img align="center" src="https://codeforces.org/s/21983/favicon-16x16.png" alt="aditya" height="30" width="40" /></a>
 <a href="https://www.instagram.com/adityapatel183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="adityapatel183" height="30" width="40" /></a>
  <a href="mailto:adityapatel183@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/300px-Gmail_icon_%282020%29.svg.png" alt="aditya" height="30" width="40" /></a>
  <br>
